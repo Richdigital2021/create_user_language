@@ -21,6 +21,13 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/shadrack-ago">
+                    <img src="https://avatars.githubusercontent.com/u/100674408?v=4" width="100;" alt="shadrack-ago"/>
+                    <br />
+                    <sub><b>Shadrack Meshack Otieno</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/mutheeEverlyn">
                     <img src="https://avatars.githubusercontent.com/u/123722613?v=4" width="100;" alt="mutheeEverlyn"/>
                     <br />
