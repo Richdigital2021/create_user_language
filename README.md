@@ -21,6 +21,13 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Richyakinz">
+                    <img src="https://avatars.githubusercontent.com/u/201581743?v=4" width="100;" alt="Richyakinz"/>
+                    <br />
+                    <sub><b>Richyakinz</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/shadrack-ago">
                     <img src="https://avatars.githubusercontent.com/u/100674408?v=4" width="100;" alt="shadrack-ago"/>
                     <br />
